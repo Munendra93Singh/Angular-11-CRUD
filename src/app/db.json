@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "naval",
+      "lastname": "kishore",
+      "email": "singh@gmail.com",
+      "mobile": "9818196930",
+      "salary": "50000"
+    },
+    {
+      "id": 3,
+      "firstname": "Mahi",
+      "lastname": "Singh",
+      "email": "singh@gmail.com",
+      "mobile": "9412258372",
+      "salary": "50000"
+    },
+    {
+      "id": 4,
+      "firstname": "Munendra",
+      "lastname": "Singh",
+      "email": "singh@gmail.com",
+      "mobile": "9412258372",
+      "salary": "40000"
+    },
+    {
+      "id": 5,
+      "firstname": "Sandeep",
+      "lastname": "Patel",
+      "email": "patel@gmail.com",
+      "mobile": "9865321010",
+      "salary": "30000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Munendra Singh",
+      "email": 9876543210,
+      "password": "singh@gmail.com",
+      "mobile": "12345678",
+      "id": 1
+    },
+    {
+      "fullname": "Sandeep",
+      "email": 123025588,
+      "password": "sara@gmail.com",
+      "mobile": "2122",
+      "id": 2
+    },
+    {
+      "fullname": "naval",
+      "email": "naval@gmail.com",
+      "password": 8006783283,
+      "mobile": "212243",
+      "id": 3
+    },
+    {
+      "fullname": "naval",
+      "email": "kishore@gmail.com",
+      "password": "101010",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "fullname": "Munendra Singh",
+      "email": "singh@gmail.com",
+      "password": "212243",
+      "mobile": 9412258372,
+      "id": 5
+    },
+    {
+      "fullname": "",
+      "email": "9412258372",
+      "password": "12345",
+      "mobile": "",
+      "id": 6
+    },
+    {
+      "fullname": "",
+      "email": "9412258372",
+      "password": "12345",
+      "mobile": "",
+      "usertype": "",
+      "id": 7
+    },
+    {
+      "fullname": "",
+      "email": "9412258372",
+      "password": "12345",
+      "mobile": "",
+      "usertype": "",
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

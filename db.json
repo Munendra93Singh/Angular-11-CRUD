@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "Munendra",
+      "lastname": "Singh",
+      "email": "munendrasingh93mahi@gmail.com",
+      "mobile": "9412258372",
+      "salary": "50000"
+    },
+    {
+      "id": 5,
+      "firstname": "John",
+      "lastname": "Seena",
+      "email": "seena@gmail.com",
+      "mobile": "7896543210",
+      "salary": "120000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
